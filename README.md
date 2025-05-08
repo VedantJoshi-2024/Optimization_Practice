@@ -15,6 +15,9 @@ This repository contains detailed solutions to the 20 sample questions from the 
 - `README.md`  
   This file.
 
+- `images`
+  Directory which may contain images and other graphical assets which are used in solution formulation.
+
 ---
 
 ## Contents
@@ -72,6 +75,8 @@ Below is a summary of the types of questions and topics covered:
 
 Questions sourced from the provided PDF:  
 *20 Sample Questions for an Applied Optimization Course in Data Science*
+
+Graphs are curated from [Desmos](https://www.desmos.com/3d) - graphing calculator
 
 ---
 
